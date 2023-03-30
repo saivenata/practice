@@ -1,0 +1,5 @@
+@media (max-width: 59rem) {
+  .section-testimonials {
+    grid-template-columns: 2fr;
+  }
+}
